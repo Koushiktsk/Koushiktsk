@@ -1,7 +1,7 @@
 ## Hey there 👋
 
 <h1>Hi 👋, I'm Krishna Koushik</h1>
-<p>A passionate web developer and Data Science Enthusiast.</p>
+<p>A passionate Web Developer and Data Science Enthusiast.</p>
 
 - 🔭 I’m currently studying at IIIT Bhagalpur ECE'26 
 - 🌱 I’m currently learning MERN stack, Django, Data Science.
