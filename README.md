@@ -4,7 +4,7 @@
 <p>A passionate Web Developer and Data Science Enthusiast.</p>
 
 - 🔭 I’m currently studying at IIIT Bhagalpur ECE'26 
-- 🌱 I’m currently learning Full-Stack, Data Science, Machine Learning.
+- 🌱 I’m currently learning Full-Stack, Data Science, Gen-AI.
 - 💬 Ask me about WEB DEV and ML
 - 📫 How to reach me: tskrishnakaushik@gmail.com
 
